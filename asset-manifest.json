@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alex-fulop/robofriends/static/css/main.eb420f2f.css",
+    "main.js": "/alex-fulop/robofriends/static/js/main.c2e5bb5a.js",
+    "static/js/787.32032a02.chunk.js": "/alex-fulop/robofriends/static/js/787.32032a02.chunk.js",
+    "index.html": "/alex-fulop/robofriends/index.html",
+    "main.eb420f2f.css.map": "/alex-fulop/robofriends/static/css/main.eb420f2f.css.map",
+    "main.c2e5bb5a.js.map": "/alex-fulop/robofriends/static/js/main.c2e5bb5a.js.map",
+    "787.32032a02.chunk.js.map": "/alex-fulop/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb420f2f.css",
+    "static/js/main.c2e5bb5a.js"
+  ]
+}
